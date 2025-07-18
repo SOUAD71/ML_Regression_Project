@@ -6,7 +6,7 @@ Ce projet vise à prédire le prix des biens immobiliers au Maroc en utilisant d
 ## 🔍 Modèles inclus
 
 * Régression Linéaire
-* Forêt Aléatoire
+* Random Forest
 * Gradient Boosting
 * SVR
 
